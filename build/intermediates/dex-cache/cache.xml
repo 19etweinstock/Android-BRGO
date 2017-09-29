@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\de408b37e6b28f47048fee731d99d69d43f0cb1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a4dbcbf093883c1b2e2b396a672bfc6f454fda0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\494641af043891acc0f0fba6aca883bda2da9757\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f922fe4b6adb81e5e637ab452ce6addd7a895844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\a87489ed88c9f1d8506eff06baff50ab01eb3d9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d72b003cc0aa9fc6b2b26e6277acb12c816f7020\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_cdb89e2fac7451a678d3daa6b143ea47769d389f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\c687096c641456095fede791b517b9225256f344\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43e614b7643a6b2c2d83d94612d82a15fe236e1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_4ffac8dd21d3584f1d7b521765f737bac747191a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\d32e395b23fb66a764bf4585bcc30af92d92e859\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0383ea061ff92aff86cc8e899378170e19319a2c">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3aba2faa8a95d5364bd8e13c923240d58d2d05e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\de769155d35dda6af690f53b149e297714c92abc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4786732c2b494f02d02330164623988bf6d8abf">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_671b5233e949526c20cfae0034b1f2e9d45214d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\41efe5bdc663994207f234fc1a0b5581c1959aab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcbbbdfdb3991335926a78c5783f5e07c0c9764a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\494641af043891acc0f0fba6aca883bda2da9757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73c4ade63fdb8214fbd31a76b5429f4304d47616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edb0ddf3bd59dec0947f6eda75b6cf2264fc5e4b">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_0b29da85a08d50bf9f825e83f1b9a996c2d9f391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.gradle\caches\modules-2\files-2.1\org.threeten\threetenbp\1.3.1\5769e9c27cd5ba74cd3a73785dde0bbb5a2d3c0d\threetenbp-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5769e9c27cd5ba74cd3a73785dde0bbb5a2d3c0d">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\threetenbp-1.3.1_6180890c7efbf534b04ea318ba74caa9acdc27b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\f9bbe1b6162aa109ea2d93a95f38f0e814aa7d81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c50a428ac1d5bd1bc59312bad20e303342ac576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2563dcc1eaf7472b124ae18c98f68226c24eada0">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a2abb69486c849fcbf5948e09643812e4e384e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_19fd1bcb4462644f1e4c59eeb8cad76edbd7636d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_26e836f8d1ce67586b7271f8d89d95764c573e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ethan\.android\build-cache\66d4456be426b641858ea32aa8a99eb3e6da5c15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\ethan\Documents\GitHub\BRGO-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce500d1148fb8d06892e5060267291f222c93929\classes.dex" />
+    </item>
+
+</items>
