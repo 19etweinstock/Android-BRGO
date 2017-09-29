@@ -1,4 +1,8 @@
+Maintence and improved updates provided by Ethan Weinstock (BRHS 2019). What follows is Praveen's initial post.
+I ask that you respect his requests. 
+
 # BRGO
+
 Designed and Created by Praveen Sakthivel (BRHS 2017). Feel free to contact me with any questions at prsakthivel0@gmail.com
 
 Libraries are all included in gradle dependencies. Download and run.
