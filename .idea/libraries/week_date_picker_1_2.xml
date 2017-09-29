@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="week-date-picker-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/de769155d35dda6af690f53b149e297714c92abc/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/de769155d35dda6af690f53b149e297714c92abc/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/solar.blaz/week-date-picker/1.2/8830a4aa7d103d9aaf16dcfd00f1afb8ac16d9e4/week-date-picker-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
